@@ -17,11 +17,11 @@ PyTorch implementation of STR models for transfer learning in Indic Languages
 
 ### Change parameters and alphabets
 
-Parameters and alphabets can't always be the same in different situations. 
+Please update the parameters and alphabets according to your requirement. 
 
 - Change parameters in the train.py file accordingly
-- Create and feed the list of the characters to the train.py file wrt to the language you are training on : 
-	The charlist input to the train.py should contain all the characters corresponding to the language present in the dataset, or the program will throw a key error during the training process.
+- Input the list of characters (or alphabets) to the train.py file wrt to the language you are training on : 
+	The charlist input to the train.py should contain all the characters corresponding to the language present in the dataset, else the program will throw a key error during the training process.
 
 ### Train
 
