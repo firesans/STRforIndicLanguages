@@ -1,5 +1,5 @@
 # STRforIndicLanguages
-PyTorch implementation of STR models for transfer learning in Indic Languages: https://cvit.iiit.ac.in/images/ConferencePapers/2021/Transfer_Learning_Indian_STR.pdf
+PyTorch implementation of [Scene Text Recognition for Transfer Learning in Indic Languages](https://cvit.iiit.ac.in/images/ConferencePapers/2021/Transfer_Learning_Indian_STR.pdf): 
 We received Best Paper Award for this work at CBDAR'21
 
 ## Dependence
